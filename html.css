@@ -1,0 +1,53 @@
+.MYBTN{
+    padding:14px;
+    background-color:rgba(0, 0, 0, 1.00);
+    color:hsla(120, 73%, 75%, 0.986);
+    border-color:rgba(255, 34, 23, 1.00);
+    cursor:pointer;
+    border-radius:10px;
+    font-size:14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name1{
+    color:rgba(0, 255, 0, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+.name2{
+    color:rgba(0, 0, 255, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+.name3{
+    color:rgba(255, 0, 0, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+.name4{
+    color:rgba(255, 251, 0, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+.name5{
+    color:rgba(0, 225, 255, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+.name6{
+    color:rgba(255, 123, 0, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+h1{
+    color:rgba(162, 0, 255, 998);
+    padding: auto;
+    font-size:65px;
+}
+.name7{
+    color:rgba(255, 0, 221, 0.998);
+    padding: auto;
+    font-size:32px;
+}
+#n0te{
+    color:aquamarine;
+}
